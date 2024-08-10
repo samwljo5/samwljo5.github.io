@@ -199,3 +199,21 @@ nav ul {
     cursor: pointer;
     color: white;
 }
+.socials {
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    right: 1%;
+    bottom: 50%;
+}
+.socicon {
+    width: 2rem;
+    height: 2rem;
+}
+footer {
+    background-color: var(--bg-color);
+    padding: 2rem;
+    text-align: center;
+    margin: 2rem 0 0;
+    color: white;
+}
